@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: The bug report issue template is designed to provide a clear and concise format for reporting bugs in The Seer's Choice. The template includes fields for the bug description, steps to reproduce the bug, expected and actual results, and additional information such as screenshots and log files. By using this template, users can provide detailed information about the issue, making it easier for developers to identify and fix the problem.
+about: The bug report issue template for The Seer's Choice GitHub repository provides a structured format for reporting bugs and issues in the game.
 title: ''
 labels: ''
 assignees: ''
