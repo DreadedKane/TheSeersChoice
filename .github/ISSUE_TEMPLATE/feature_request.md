@@ -1,20 +1,24 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Feature Request
+about: Use this template to suggest new features and improvements for The Seer's Choice game. Your feedback is valuable in helping us create the best possible experience!
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Description**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Please provide a clear and concise description of the feature you are requesting.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why is this feature important?**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Please explain why you believe this feature is important and how it will benefit the project.
+
+**Proposed Solution**
+
+If you have an idea of how this feature can be implemented, please describe it here.
+
+**Additional Information**
+
+Please provide any additional information or context that may help us understand your feature request.
