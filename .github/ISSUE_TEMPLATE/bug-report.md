@@ -1,6 +1,7 @@
 ---
 name: Bug Report
-about: The bug report issue template for The Seer's Choice GitHub repository provides a structured format for reporting bugs and issues in the game.
+about: The bug report issue template for The Seer's Choice GitHub repository provides
+  a structured format for reporting bugs and issues in the game.
 title: ''
 labels: ''
 assignees: ''
