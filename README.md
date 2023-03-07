@@ -4,7 +4,7 @@ The Seer's Choice is a story-driven adventure game that explores the concept of 
 
 ## Getting Started
 
-To get started with The Seer's Choice, you will need to have Unity version 2021.3.19f1 installed on your computer. Clone this repository and open the project in Unity to begin exploring and contributing to the game.
+To get started with The Seer's Choice, you will need to have [Unity version 2021.3.19f1](https://download.unity3d.com/download_unity/c9714fde33b6/UnityDownloadAssistant-2021.3.19f1.exe) installed on your computer. Clone this repository and open the project in Unity to begin exploring and contributing to the game.
 
 ## Contributing
 
