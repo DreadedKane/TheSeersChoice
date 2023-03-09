@@ -18,6 +18,10 @@ The Seer's Choice is committed to fostering a welcoming and inclusive community.
 
 The Seer's Choice takes security very seriously. If you have discovered a security vulnerability, please review our [security policy](SECURITY.md) for more information on how to report it and what to expect.
 
+## Game Design Document
+
+For more detailed information about the game's mechanics, story, and overall design, please refer to the [game design document](Docs/TheSeersChoice-GameDesignDocument.pdf).
+
 ## License
 
 The Seer's Choice is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
